@@ -188,8 +188,9 @@ FizzBuzzTest > check_number_to_fizzbuzz(int, String)[3] PASSED
 Tests run: 15, Failures: 0, Errors: 0, Skipped: 0
 ```
 
-> 📸 *(Añadir aquí la captura de pantalla de IntelliJ con los tests en verde)*
-<img width="1077" height="514" alt="image" src="https://github.com/user-attachments/assets/1c0dd431-d22c-4fe0-9bc1-ee3d92916191" />
+> 📸 
+<img width="1119" height="602" alt="image" src="https://github.com/user-attachments/assets/9b15c618-fcf9-4329-a0da-34b12de48145" />
+
 
 ---
 
